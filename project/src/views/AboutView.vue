@@ -23,8 +23,8 @@
         </ul>
 
         <h2 class="text-2xl font-semibold text-gray-900 mt-8 mb-4">Contact Information</h2>
-        <p class="text-gray-600 mb-2">Email: support@sakariresults.com</p>
-        <p class="text-gray-600 mb-2">Phone: +1 (555) 123-4567</p>
+        <p class="text-gray-600 mb-2">Email: support@Apnaresults.com</p>
+        <p class="text-gray-600 mb-2">Phone: +91 1234567890</p>
         <p class="text-gray-600">Hours: Monday - Friday, 9:00 AM - 5:00 PM</p>
       </div>
     </div>
